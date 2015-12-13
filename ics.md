@@ -1,6 +1,6 @@
 #Fudan ICS Spring 2013
 ####Lab 3: Pipelined Y86 Implementation
-##### 张谦 13307130226 13级计算机科学与技术
+##### 张谦 qzane@live.com
 
 
 #1 Introduction
@@ -62,7 +62,7 @@ __Note__: Any addtional implementations and test instaces will for 10 pts.
 * GUI界面使用python内置的Tkinter编写，全部使用官方标准库
 
 
-####张谦 13307130226 13级计算机科学与技术
+####张谦 qzane@live.com 
 
 
 
